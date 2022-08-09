@@ -1,0 +1,34 @@
+OBJECTS  AND  ITS  INTERNAL   REPRESENTATION   IN  JAVASCRIPT  :
+
+
+                         1. Objects  are  important  data  type  in  javascript.  It  can  hold  many  data  types  and  it  different than  the  primitive 
+ data  type.  
+
+                         2. Primitive  data  types  contain  single  value  but  object  can  contain  many  vaules  in  the  form  of  key : value pair.
+ 
+                         3. The  key  can  be  variable  or  function  and  are  called  properties  and  methods  in  the  context  of  an  object.
+
+
+                         4.Objects  are  more  complex  and  each  object  may  contain  any  combination  of  these  primitive  data-types  as  well 
+as  reference  data-types.         
+                 
+                   
+
+                         var myCar = new Object();
+
+                         myCar.make = 'Maruthi';
+
+                         myCar.model = 'AZG';
+
+                         myCar.year = 2010;
+
+                         myCar.wheels = 2;
+
+                        
+
+
+
+
+
+
+  

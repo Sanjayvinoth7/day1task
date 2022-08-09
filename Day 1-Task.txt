@@ -1,0 +1,23 @@
+DIFFERENCE  BETWEEN  HTTP1.1  AND  HTTP2  :
+
+
+HTTP      :
+
+                Hypertext  Transfer  Protocol  or  HTTP  ,it  is  based  on  the  client - server  model. The  protocol  is  used  for  communication 
+between  the  web  browser and  web  server. There  is  a  evalution  in  the  HTTP,  HTTP1.1  and  HTTP2  is  one  of  them.
+
+
+HTTP/1.1 :
+
+                 The  Hypertext  Transfer  Protocol  or  HTTP1.1  is  standardized  protocol. It  is  faster  than  the  HTTP. HTTP1.1  is  used  in  
+every  places. HTTP1.1  keeps  all  the  request  in  the  plain  text  format. It  uses  request  resource  line  for  getting  multiple  pages. 
+HTTP1.1 must  implement  GET  method  and  is  used  to  put  request. HTTP1.1  is  load  for  every  TCP  connection  one  by  one.                       
+                                                                   
+   
+ HTTP/2   :
+
+                 The  Hypertext  Transfer  Protocol  or  HTTP2  is  faster , better  and  secure  than  the  HTTP1.1. HTTP2  is  a  protocol  for 
+ greater  performance. HTTP2  using  binary  protocol  and  it  is  multiplexed. HTTP2  is  used  in  several  places  only.  It  is  a 
+binary  protocol  which  no.of  request  can  goes  through  the single  TCP (Transmission Control Protocol).  In  HTTP2 , PUSH 
+method  happen  in  the  server.
+
